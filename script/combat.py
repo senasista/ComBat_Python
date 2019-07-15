@@ -240,3 +240,6 @@ if __name__ == "__main__":
     ebat.to_csv("py-batch.txt", sep="\t")
 
     ebat = combat(dat, pheno['batch'], None)
+
+def add(a,b):
+	return a+b
