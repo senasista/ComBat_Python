@@ -241,5 +241,3 @@ if __name__ == "__main__":
 
     ebat = combat(dat, pheno['batch'], None)
 
-def add(a,b):
-	return a+b
